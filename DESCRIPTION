@@ -1,0 +1,12 @@
+Package: tofilibminer2
+Title: Explore Your R Libraries
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tobias", "Fietze", , "tobias.fietze@slu.se", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Provides functions for learning about your R libraries, and the 
+    packages you have installed.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1

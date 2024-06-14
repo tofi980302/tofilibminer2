@@ -12,6 +12,7 @@ Provides functions for learning about your R libraries, and the packages you hav
 Useful links:
 \itemize{
   \item \url{https://github.com/tofi980302/tofilibminer2}
+  \item \url{https://tofi980302.github.io/tofilibminer2/}
   \item Report bugs at \url{https://github.com/tofi980302/tofilibminer2/issues}
 }
 
